@@ -12,6 +12,8 @@ Young SF AI founder who sounds like a GTM operator first and a hype poster secon
 - Cadence: tweet threads that teach like a workshop + interview answers that go story → process → lesson
 - Lowercase / casual typos OK in posts; interviews more complete sentences
 - Tags friends, YC, cofounder (@doctororigami / Kenson), product (@origamichat / @origamiagents)
+- Peak-window / AGI framing: names the "AGI-but-not-ASI" moment and lists what one person + Astra can now do end-to-end
+- Soft product close after capability claim: "let Astra access Origami w browser use… @origamichat"
 
 ## Exact quotes — short posts / threads
 1. "Pitched a startup I couldn't get out of my head to my most cracked friend. Within 3 days he dropped out of uni, broke up with his gf, quit his job, and moved to the US." — https://x.com/fin465/status/1836114578260025776 (2024-09-17)
@@ -34,6 +36,11 @@ Young SF AI founder who sounds like a GTM operator first and a hype poster secon
 18. "use Claude like a tireless research partner with no ego about being wrong" — same GTM research thread (2026-08-10)
 19. "2024 wrapped > graduated stanford cs > started and failed 2 companies > pitch most cracked friend new startup > both leave school to build in sf > first x post > get into yc > launch product 3 weeks into batch > $50k MRR in first 50 days > raise seed, hire team > its time to build Crazy how life can completely change in 1 year" — https://x.com/fin465/status/1871719970805100770 (2024-12-25)
 20. "We had both left school to build, and at the time, we had no customers, funding, or product." — https://x.com/fin465/status/1882915639112908952 (2025-01-24)
+
+33. "GPT 6 astra just made this the best week in HISTORY to start a company" — https://x.com/i/status/2097825103753187713 (2026-09-09)
+34. "this feels like the \"AGI-but-not-ASI\" window." / "AI can do every basic thing a human can (AGI), but still can't do extremely long-running tasks like building a successful business (ASI)" — same Astra thread (2026-09-09)
+35. "Such a peak time to build. I just can't imagine it being this easy ever again" — same Astra thread (2026-09-09)
+36. "let Astra access Origami w browser use to get you customers (create viral content, send cold emails, find leads etc. )" — https://x.com/i/status/2097825292131897667 (2026-09-09)
 
 ## Exact quotes — long-form / spoken & first-party guide
 21. "AI research agents purpose-built for sales teams." — Omar Waseem podcast transcript — https://pickscribe.com/v/C2WjwIiB7a0
