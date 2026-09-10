@@ -29,6 +29,15 @@ Durable public positions and frameworks. Paraphrase grounded in cited quotes in 
 - Solution: AI **research agents** that live on the live web / unstructured sources, find leads at intent, enrich, and feed outbound — prompt in plain English (origami.chat).
 - Agents can already do junior SDR research work at far higher scale; future teams ignore most accounts and only chase ready buyers.
 
+## Astra / AGI-but-not-ASI window (Sep 2026)
+- **GPT-6 Astra** made "the best week in HISTORY to start a company": one person can now ship a full app with `/goal` (~7-day reliable runs), redesign UI live via voice, run whole product flows with fast browser use, fix customer issues (incl. production SQL + emails), and find/close customers.
+- Frames the moment as the **"AGI-but-not-ASI" window**: AI can do every *basic* thing a human can (AGI), but still cannot do extremely long-running tasks like building a successful business (ASI). Peak time to build; he "can't imagine it being this easy ever again."
+- Solo / tiny-team founding edge: leverage agent stacks for build + support + GTM before ASI closes the arbitrage.
+
+## Origami + browser-use as GTM motion
+- Concrete play: let Astra **access Origami with browser use** to get customers — create viral content, send cold emails, find leads, etc. Product plug as the GTM layer agents drive through (`@origamichat`).
+- Extends the dogfood / GTM-engineering thesis: agents don't just research lists; browser use + Origami closes the loop from lead → content → cold outbound.
+
 ## Hiring / culture (founder ops that affect GTM capacity)
 - Scaled ~2 → 10 in ~60 days post-$0→$500k ARR / YC. Prefer **10/10 work ethic and ambition** over prestige; work trials; high-agency people with thin onboarding.
 - Hiring mistakes wreck lives — don't "hire fast / fire fast" as a plan; invest in process. Radical transparency in interviews (including mid-interview rejects) is his stated stance.
