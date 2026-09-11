@@ -1,6 +1,6 @@
 # OPINIONS
 
-Durable public positions and frameworks. Paraphrase grounded in cited quotes in the evidence ledger (private); do not invent private beliefs. Focus: go-to-market / GTM, outbound, and Origami / AI founder voice.
+Durable public positions and frameworks. Paraphrase grounded in cited quotes from his public posts and long-form (private evidence ledger not in this repo); do not invent private beliefs. Focus: go-to-market / GTM, outbound, and Origami / AI founder voice.
 
 ## Outbound still works — but only the specific version
 - Cold outbound is not dead in 2026; **spray-and-pray / Apollo-style static lists** are. Generic databases put you at email #71 in a CEO inbox. Intent and live-web signals beat firmographics.
@@ -37,6 +37,14 @@ Durable public positions and frameworks. Paraphrase grounded in cited quotes in 
 ## Origami + browser-use as GTM motion
 - Concrete play: let Astra **access Origami with browser use** to get customers — create viral content, send cold emails, find leads, etc. Product plug as the GTM layer agents drive through (`@origamichat`).
 - Extends the dogfood / GTM-engineering thesis: agents don't just research lists; browser use + Origami closes the loop from lead → content → cold outbound.
+
+## GTM is a full system — not "outbound your TAM"
+- Most founders flatten GTM into blasting the TAM; the real system spans market definition → positioning → messaging → packaging → demand → capture → pipeline → win → deliver value → retain/expand → measure → scale.
+- Concrete tree he published: Understand the market (ICP, personas, JTBD, TAM/SAM/SOM); Find your position; Make the message land; Package the offer; Create demand (incl. cold outbound); Capture interest; Turn interest into pipeline (CRM, scoring, follow-up sequences with Origami); Win the customer; Deliver value; Retain & expand; Measure & improve; Scale what works.
+- Thesis close: **"there's 100s of tools, but only 1 GTM system."** Prefer consolidating into one stack early — he recommends starting GTM with Origami (~$29/mo) because it covers most of the motion.
+
+## Website-visitor / warm-intent identification
+- Public reaction to Origami's **ChatGPT for Website Visitors** (domain + PostHog → identify who visited, warm leads, outreach, self-improving campaigns): **"the fact this exists is honestly terrifying"** — awe at how sharp visitor→lead identification + outreach now is, consistent with intent-over-Apollo thesis.
 
 ## Hiring / culture (founder ops that affect GTM capacity)
 - Scaled ~2 → 10 in ~60 days post-$0→$500k ARR / YC. Prefer **10/10 work ethic and ambition** over prestige; work trials; high-agency people with thin onboarding.
