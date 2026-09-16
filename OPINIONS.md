@@ -54,3 +54,12 @@ Durable public positions and frameworks. Paraphrase grounded in cited quotes fro
 ## Stanford / SF / risk
 - Left Stanford masters on day-one energy to build; prefers SF all-in culture vs resume-optimization / fear-of-failure culture.
 - Tells younger people: take real risks early; agency over your life matters more than the default path.
+
+## Repeatable X launch-video playbook (X 2026-09-16)
+- Treat product launches as an **infinitely repeatable** video motion (500k–10m+ views claimed when done right; they clear 250k+/mo). Screen Studio or freelance editor; scroll-stopping hook ("world's first ___"); study recent viral X launches via Origami content mode; activate network with exact go-live time + example quote tweets; first-hour engagement; optional paid boost after a day; relaunch on each major feature; if it flops, change the hook and try again (3–5 launches/mo ok).
+
+## YC-derived operating rules (X 2026-09-15)
+- Origami 0→1k+ paid in first 100 days framed via 10 YC rules: skip vision theater / solve happier problems; become the expert; company = what you spend time on; fundraising overrated; customers first then product; be expensive / charge early; sleep for decisions; customers never get bored of the problem; surround with winners; keep going when revenue stalls / have fun.
+
+## Conference-native GTM loop (X 2026-09-15)
+- Case study (YC founder $0→$3.5m ARR / 9 mo): 4 weeks before — announce attendance, Origami-mine past conference posts + engagers (~50% attendee list), DM ICP, book top 10; during — 12×30min/day in nearby quiet space, gifts/notes, on-camera customer Q&A; 4 weeks after — 15–20 clips → LinkedIn/X cadence feeding the next event. Few-thousand-dollar playbook; conferences remain acquisition.
