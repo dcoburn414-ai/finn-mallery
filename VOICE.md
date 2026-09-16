@@ -61,3 +61,12 @@ Young SF AI founder who sounds like a GTM operator first and a hype poster secon
 30. "We're building the first generalized system of AI research agents that's going to change how people use the internet," / "Then Google becomes obsolete," — SF Standard interview (labeled) — https://sfstandard.com/2025/03/06/startups-grindcore-ai-agents-hayes-cerebral-valley/
 31. "Everyone's working every waking hour," — SF Standard (labeled)
 32. "We train AI research agents to help you find leads at the point of maximum buying intent." — YC Launch (Finn & Kenson) — https://www.ycombinator.com/launches/MFd-origami-agents-find-who-s-looking
+
+## Exact quotes — launch / YC rules / conferences (X 2026-09-15–16)
+40. "here's how to get 500k-10m+ views on your launch video (every time, infinitely repeatable)" / "We do one a month and consistently clear 250k+ views" — https://x.com/fin465/status/2100052682996322760 (2026-09-16)
+41. "if it flops, barely anyone saw it anyway. / so change the hook and try again the following week. people literally \"launch\" 3-5 times a month and it works" — same
+42. "Having a Vision is bullshit. / Just solve problems that make people happier and see where it goes." — YC 10 rules — https://x.com/fin465/status/2100001474222903466 (2026-09-15)
+43. "Customers first. Then make a product." / "Be expensive." / "The point of a business is to make money, not raise money." — same
+44. "Your revenue will stop growing. Keep going." / "if you're not having fun you're not gonna make it" — same
+45. "talked to a YC founder who went $0 → $3.5m ARR in their first 9 months with their ENTIRE GTM built off going to conferences." — https://x.com/fin465/status/2099913841698316776 (2026-09-15)
+46. "you collect ~50% of the entire attendee list weeks in advance" / "each event feeds the next one." — same
