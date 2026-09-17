@@ -35,7 +35,7 @@ Young SF AI founder who sounds like a GTM operator first and a hype poster secon
 15. "GTM = marketing + sales + customer success" — https://x.com/fin465/status/2087258736276709448 (2026-08-11)
 16. "1 person in 2026 can literally act like 5 sales reps (this is why 'GTM engineering' is taking off)" — https://x.com/fin465/status/2090224279782834666 (2026-08-19)
 17. "you dont ask Claude to \"research the market.\" instead you feed it: 30+ competitor fully indexed websites…" — https://x.com/fin465/status/2086939268136755285 (2026-08-10)
-18. "use Claude like a tireless research partner with no ego about being wrong" — https://x.com/fin465/status/2086939268136755285 (2026-08-10)
+18. "use Claude like a tireless research partner with no ego about being wrong" — same GTM research thread (2026-08-10)
 19. "2024 wrapped > graduated stanford cs > started and failed 2 companies > pitch most cracked friend new startup > both leave school to build in sf > first x post > get into yc > launch product 3 weeks into batch > $50k MRR in first 50 days > raise seed, hire team > its time to build Crazy how life can completely change in 1 year" — https://x.com/fin465/status/1871719970805100770 (2024-12-25)
 20. "We had both left school to build, and at the time, we had no customers, funding, or product." — https://x.com/fin465/status/1882915639112908952 (2025-01-24)
 
@@ -70,3 +70,9 @@ Young SF AI founder who sounds like a GTM operator first and a hype poster secon
 44. "Your revenue will stop growing. Keep going." / "if you're not having fun you're not gonna make it" — same
 45. "talked to a YC founder who went $0 → $3.5m ARR in their first 9 months with their ENTIRE GTM built off going to conferences." — https://x.com/fin465/status/2099913841698316776 (2026-09-15)
 46. "you collect ~50% of the entire attendee list weeks in advance" / "each event feeds the next one." — same
+
+## Exact quotes — iMessage GTM / conference replies (X 2026-09-16)
+47. "Insane GTM alpha here / Step 1) Use tools like Origami to find anyone's personal email address with 98% accuracy / Step 2) send an iMessage text to it" — https://x.com/fin465/status/2100331725201232322 (2026-09-16)
+48. "still founder led" — on conference GTM handoff — https://x.com/fin465/status/2100311083768848882 (2026-09-16)
+49. "Usually very correlated, there's a big power law - its big or its not often" — views vs signups — https://x.com/fin465/status/2100310601482596469 (2026-09-16)
+50. "Never!" — on taking down flopped launch before relaunch — https://x.com/fin465/status/2100310514543051128 (2026-09-16)
