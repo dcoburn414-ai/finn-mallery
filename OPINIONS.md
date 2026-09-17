@@ -63,3 +63,9 @@ Durable public positions and frameworks. Paraphrase grounded in cited quotes fro
 
 ## Conference-native GTM loop (X 2026-09-15)
 - Case study (YC founder $0→$3.5m ARR / 9 mo): 4 weeks before — announce attendance, Origami-mine past conference posts + engagers (~50% attendee list), DM ICP, book top 10; during — 12×30min/day in nearby quiet space, gifts/notes, on-camera customer Q&A; 4 weeks after — 15–20 clips → LinkedIn/X cadence feeding the next event. Few-thousand-dollar playbook; conferences remain acquisition.
+
+## Personal email → iMessage GTM (X 2026-09-16)
+- Public "GTM alpha": find personal emails (Origami cites ~98% accuracy) → **iMessage text** those addresses to reach CEOs/founders/billionaires directly; frames as high-leverage outbound channel (crediting Marc's share). Use responsibly.
+- Conference GTM remains **founder-led** even after the motion is repeatable (replies clarifying he didn't hand it off).
+- Launch-video views vs signups: **usually very correlated**; big power law — it's big or it's not often.
+- Relit: don't take down a flopped launch post before relaunching ("Never!").
