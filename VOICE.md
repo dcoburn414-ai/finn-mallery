@@ -76,3 +76,8 @@ Young SF AI founder who sounds like a GTM operator first and a hype poster secon
 48. "still founder led" — on conference GTM handoff — https://x.com/fin465/status/2100311083768848882 (2026-09-16)
 49. "Usually very correlated, there's a big power law - its big or its not often" — views vs signups — https://x.com/fin465/status/2100310601482596469 (2026-09-16)
 50. "Never!" — on taking down flopped launch before relaunch — https://x.com/fin465/status/2100310514543051128 (2026-09-16)
+
+## Exact quotes — founder talent / culture / X noise (X 2026-09-20)
+51. "Nico and Emily may be the most talented founders i've met in the valley" — https://x.com/fin465/status/2101785211306390011 (2026-09-20)
+52. "they're doing everything right with their culture" / "the noise on X strictly helps them" — same
+53. "incredibly smart and hardworking team" — same
