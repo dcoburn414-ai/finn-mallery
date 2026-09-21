@@ -69,3 +69,6 @@ Durable public positions and frameworks. Paraphrase grounded in cited quotes fro
 - Conference GTM remains **founder-led** even after the motion is repeatable (replies clarifying he didn't hand it off).
 - Launch-video views vs signups: **usually very correlated**; big power law — it's big or it's not often.
 - Relit: don't take down a flopped launch post before relaunching ("Never!").
+
+## Founder talent / culture / X as distribution (X 2026-09-20)
+- Public praise frame for crushing founders: **culture done right** + **X noise as a feature** (attention/controversy helps distribution) + a **smart, hardworking team** — talent alone is not the full explanation.
