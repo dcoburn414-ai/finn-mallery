@@ -72,3 +72,6 @@ Durable public positions and frameworks. Paraphrase grounded in cited quotes fro
 
 ## Founder talent / culture / X as distribution (X 2026-09-20)
 - Public praise frame for crushing founders: **culture done right** + **X noise as a feature** (attention/controversy helps distribution) + a **smart, hardworking team** — talent alone is not the full explanation.
+
+## Astra-for-sales / product awe QT (X 2026-09-21)
+- Thin quote-tweet reaction to an Origami / ChatGPT-6 Astra-for-sales launch: **"Well this looks absolutely terrifying..."** — same awe register as prior website-visitor ID reaction. Do **not** treat the quoted launch body as Finn's opinions; keep first-party framing to the terror/awe one-liner only.

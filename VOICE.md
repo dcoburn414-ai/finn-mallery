@@ -81,3 +81,5 @@ Young SF AI founder who sounds like a GTM operator first and a hype poster secon
 51. "Nico and Emily may be the most talented founders i've met in the valley" — https://x.com/fin465/status/2101785211306390011 (2026-09-20)
 52. "they're doing everything right with their culture" / "the noise on X strictly helps them" — same
 53. "incredibly smart and hardworking team" — same
+
+54. "Well this looks absolutely terrifying..." — X QT (product promo; awe register) — https://x.com/fin465/status/2102079457313874341 (2026-09-21)
