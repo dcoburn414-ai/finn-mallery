@@ -75,3 +75,10 @@ Durable public positions and frameworks. Paraphrase grounded in cited quotes fro
 
 ## Astra-for-sales / product awe QT (X 2026-09-21)
 - Thin quote-tweet reaction to an Origami / ChatGPT-6 Astra-for-sales launch: **"Well this looks absolutely terrifying..."** — same awe register as prior website-visitor ID reaction. Do **not** treat the quoted launch body as Finn's opinions; keep first-party framing to the terror/awe one-liner only.
+
+## Origami Autopilot (X 2026-09-22)
+- **Autopilot**: domain-in, questions answered → autonomous AI that works to get customers (claims first AI that gets customers 100% autonomously).
+- Public beta metrics he cites: landed a new customer for **~80%** of users; early set generated **~30k positive replies** without operator work.
+- Agent behavior: targets warmest leads / strongest buying signals; identifies website visitors; stops bad campaigns and creates new ones; texts updates; trained on practices from thousands of active Origami customers.
+- Pricing publicly stated: free trial; **$29/mo** outreach; **$129/mo** max model.
+- Infra aside: offers **pre-warmed mailboxes** (SPF/DMARC) via marketplace; he personally sends from **hundreds** of mailboxes — growth besides content.
