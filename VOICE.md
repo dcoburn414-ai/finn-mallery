@@ -83,3 +83,8 @@ Young SF AI founder who sounds like a GTM operator first and a hype poster secon
 53. "incredibly smart and hardworking team" — same
 
 54. "Well this looks absolutely terrifying..." — X QT (product promo; awe register) — https://x.com/fin465/status/2102079457313874341 (2026-09-21)
+
+55. "Introducing Autopilot - the first AI that gets you customers 100% autonomously." / "Type your domain in + answer the questions it asks. That's it!" — X — https://x.com/fin465/status/2102455374297080171 (2026-09-22)
+56. "In our data, it landed a new customer for 80% of users." / "30,000 positive replies from leads - without doing anything!" — same
+57. "it targets your WARMEST leads with the STRONGEST buying signals" / "It autonomously does WHATEVER it takes to get you customers: stopping bad campaigns, creating new ones" — same
+58. "Personally I send from 100s and that's how we've mostly grown apart from content" — reply on pre-warmed mailboxes — https://x.com/fin465/status/2102457246823395773 (2026-09-22)
