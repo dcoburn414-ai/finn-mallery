@@ -1,6 +1,6 @@
 # OPINIONS
 
-Durable public positions and frameworks. Paraphrase grounded in cited quotes from his public posts and long-form (private evidence ledger not in this repo); do not invent private beliefs. Focus: go-to-market / GTM, outbound, and Origami / AI founder voice.
+Durable public positions and frameworks. Paraphrase grounded in cited quotes in the public record; do not invent private beliefs. Focus: go-to-market / GTM, outbound, and Origami / AI founder voice.
 
 ## Outbound still works — but only the specific version
 - Cold outbound is not dead in 2026; **spray-and-pray / Apollo-style static lists** are. Generic databases put you at email #71 in a CEO inbox. Intent and live-web signals beat firmographics.
@@ -52,8 +52,9 @@ Durable public positions and frameworks. Paraphrase grounded in cited quotes fro
 - Friends-as-team works with **orthogonal skill sets**; firing friends is the painful double-edged sword he acknowledges publicly.
 
 ## Stanford / SF / risk
-- Left Stanford masters on day-one energy to build; prefers SF all-in culture vs resume-optimization / fear-of-failure culture.
+- Left Stanford masters on day-one energy to build; historically preferred SF all-in culture vs resume-optimization / fear-of-failure culture.
 - Tells younger people: take real risks early; agency over your life matters more than the default path.
+- As of late Sep 2026: publicly calls SF **morally bankrupt and getting worse**, frames unethical competitor/talent drama as extremely common, and recommends staying far away — prefer **NYC or another big city** for retaining talent and finding people motivated by the right reasons. (X QT reacting to Cognition / Chris Degnan termination discourse, 2026-09-30)
 
 ## Repeatable X launch-video playbook (X 2026-09-16)
 - Treat product launches as an **infinitely repeatable** video motion (500k–10m+ views claimed when done right; they clear 250k+/mo). Screen Studio or freelance editor; scroll-stopping hook ("world's first ___"); study recent viral X launches via Origami content mode; activate network with exact go-live time + example quote tweets; first-hour engagement; optional paid boost after a day; relaunch on each major feature; if it flops, change the hook and try again (3–5 launches/mo ok).
