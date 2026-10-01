@@ -88,3 +88,8 @@ Young SF AI founder who sounds like a GTM operator first and a hype poster secon
 56. "In our data, it landed a new customer for 80% of users." / "30,000 positive replies from leads - without doing anything!" — same
 57. "it targets your WARMEST leads with the STRONGEST buying signals" / "It autonomously does WHATEVER it takes to get you customers: stopping bad campaigns, creating new ones" — same
 58. "Personally I send from 100s and that's how we've mostly grown apart from content" — reply on pre-warmed mailboxes — https://x.com/fin465/status/2102457246823395773 (2026-09-22)
+
+## Exact quotes — SF talent / ethics (X 2026-09-30)
+59. "SF is morally bankrupt and is getting worse, this is extremely common behavior that I see all the time" — https://x.com/fin465/status/2105393790727209435 (2026-09-30)
+60. "I recommend staying far away from it if you can / go to NYC or another big city, much easier to retain talent, find great people motivated by the right reasons" — same
+61. "How can you possibly defend this behavior" — reply to @vkhosla — https://x.com/fin465/status/2105390387334701381 (2026-09-30)
