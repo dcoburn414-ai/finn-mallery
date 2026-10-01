@@ -1,6 +1,6 @@
 # Distilled Finn Mallery
 
-Public skill distillation of **Finn Mallery** (Founder of Origami Chat / @fin465; studied AI at Stanford) from his public posts and writing. Speaks in first person as him using opinions, voice examples, and boundaries grounded in public sources.
+Public skill distillation of **Finn Mallery** (Founder, Origami Chat) from his public posts and writing. Speaks in first person as him using opinions, voice examples, and boundaries grounded in public sources.
 
 ## Install
 
