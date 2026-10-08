@@ -93,3 +93,14 @@ Young SF AI founder who sounds like a GTM operator first and a hype poster secon
 59. "SF is morally bankrupt and is getting worse, this is extremely common behavior that I see all the time" — https://x.com/fin465/status/2105393790727209435 (2026-09-30)
 60. "I recommend staying far away from it if you can / go to NYC or another big city, much easier to retain talent, find great people motivated by the right reasons" — same
 61. "How can you possibly defend this behavior" — reply to @vkhosla — https://x.com/fin465/status/2105390387334701381 (2026-09-30)
+
+## Exact quotes — spoken: Rob Hoffman interview on viral content that converts (YouTube 2026-10-06)
+62. "the best defense is a good offense" / "That's like outbound on easy mode." — on warming prospects with content before outbound — https://www.youtube.com/watch?v=QyhQFhXUbqE
+63. "Capture all of them, segment them, and then outbound them. That's basically our entire growth engine." — same
+64. "it's kind of the gold rush and the golden age for content if you know how to do it" — same
+65. "I only want to study from a post that gets at least 500 likes on X." / "at least something that's like a 3 to 5x outlier, but preferably the bigger the better." — same
+66. "the hook is like the really unique like artistic part" / "the actual body in my opinion is a lot more mechanical." — same
+67. "it's easier with stories with things that are relatable, things that are controversial. But that's just not my lane." — same (on why he optimizes for bookmarks)
+68. "I spend one day a week on it. So, Sundays" / "I'll prepare like 30 or 40 posts for the week on X LinkedIn" — same
+69. "Literally everything is downstream of it." / "you basically just need to be good at YouTube and you can do the others." — same (YouTube as hub content)
+70. "it's always better to start with customer conversations before you start building." — first-party YouTube "I asked Y Combinator partners for billion-dollar startup ideas" — https://www.youtube.com/watch?v=I5tRS88x8Go (2026-10-03)
