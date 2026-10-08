@@ -83,3 +83,16 @@ Durable public positions and frameworks. Paraphrase grounded in cited quotes in 
 - Agent behavior: targets warmest leads / strongest buying signals; identifies website visitors; stops bad campaigns and creates new ones; texts updates; trained on practices from thousands of active Origami customers.
 - Pricing publicly stated: free trial; **$29/mo** outreach; **$129/mo** max model.
 - Infra aside: offers **pre-warmed mailboxes** (SPF/DMARC) via marketplace; he personally sends from **hundreds** of mailboxes — growth besides content.
+
+## Viral content that converts — the content→warm-outbound engine (Rob Hoffman interview, YouTube 2026-10-06)
+- Only two self-driven acquisition channels at Origami besides word of mouth/product: **own outbound** (cold/warm email + LinkedIn) and **content**. Outbound gets harder every year — "the best defense is a good offense": put yourself in front of prospects via content/ads, then retarget. Warm prospects who already engaged convert "10 or 20 times better than somebody completely cold." Engine: big top of funnel → capture → segment → outbound.
+- Calls now "the gold rush and the golden age for content" — thousands of signups in a good content week at ~zero cost, but doesn't expect it to last as AI content improves.
+- Study outliers, then remix: set an engagement floor (≥500 likes on X, last 12 months) and look for ≥3–5x outliers (bigger is better; a small account's 100x+ post in your space is the ideal model). Add your own thoughts and improve it.
+- AI drafts get you "80 to 90%" of the way; hooks and rehooking ("dopamine ladders") still need human skill — he edits and corrects made-up facts. Finding good posts to study is "99% of the battle" because native platform search is bad. LLM copy at scale stays generic because there's no single right output for 50 audiences (unlike verifiable outputs like code).
+- Hook = the artistic part; body is mechanical — keep curiosity and rehook every few sentences. Formula: tell a story about a painful workflow, show it done with your tool, in a proven format — "the holy trinity."
+- Optimizes for **bookmarks** on his educational page (posts with ~10x more bookmarks than likes): step lists and dense short bullets trigger saves. Knows reposts/quotes are stronger signals but stories/controversy are "not my lane."
+- CTA placement scales with post strength: any plug costs some reach; strong outliers get a visible CTA, borderline posts get the CTA in the top reply. Conversion needs much more novel value than generic virality — 3–4 sentence posts can't really carry a product plug. Sources long posts from long recorded voice transcripts about what works for customers.
+- Cadence: one day a week (Sundays, ~6–8 hrs) to prep ~30–40 posts for X/LinkedIn with Origami doing the heavy lifting; then just posts. YouTube (started ~a month earlier) is his favorite platform and the hub — transcripts feed X/LinkedIn posts and shorts.
+
+## Startup ideas / where to build (first-party YouTube, 2026-10-03)
+- Build where frontier labs won't — become a domain expert outside AI-engineer problems. If ambitious, don't limit yourself to B2B SaaS (AI-scaled agencies can be huge). Start with customer conversations before building (plugs Origami for booking those meetings). Most of the video relays YC partners' ideas — don't attribute those partner theses to him as his own.
