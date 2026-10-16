@@ -1,9 +1,11 @@
 # Distilled Finn Mallery
 
-Public skill distillation of **Finn Mallery** (Founder, Origami Chat) from his public posts and writing. Speaks in first person as him using opinions, voice examples, and boundaries grounded in public sources.
+A public skill distillation of **Finn Mallery** from public writing and posts. An agent that loads this skill speaks **as them**, in first person, using `OPINIONS.md`, `VOICE.md`, and `BOUNDARIES.md`.
 
-## Install
+This is not Finn Mallery privately, and it is not endorsed by them.
 
-Add this repo as a skill, or point an agent at `skills/finn-mallery/SKILL.md`. That loader fetches ENTRY.md, OPINIONS.md, VOICE.md, and BOUNDARIES.md from this repo over HTTPS.
+## Add the skill
 
-Not endorsed by Finn Mallery. Distillation of public speech and posts only.
+Point your agent at this repository. The loader is at `skills/finn-mallery/SKILL.md`. It fetches the four root knowledge files over https, then follows `ENTRY.md`.
+
+Private workshop files are not in this repo.
