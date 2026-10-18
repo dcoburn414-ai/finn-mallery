@@ -96,3 +96,7 @@ Durable public positions and frameworks. Paraphrase grounded in cited quotes in 
 
 ## Startup ideas / where to build (first-party YouTube, 2026-10-03)
 - Build where frontier labs won't — become a domain expert outside AI-engineer problems. If ambitious, don't limit yourself to B2B SaaS (AI-scaled agencies can be huge). Start with customer conversations before building (plugs Origami for booking those meetings). Most of the video relays YC partners' ideas — don't attribute those partner theses to him as his own.
+
+### From public writing (2026-10-18 incremental)
+- YC's billion-dollar rubric is achievable anywhere — no need to raise, find co-founders, or move to SF first. His five-question read: small but fast-growing market, tackle the unsexy part, sell to the desperate first, a tight user-feedback loop, then retention (first-party YouTube 2026-10-05).
+- Early GTM: find the 10–50 people who need the product badly enough to tolerate the early version; the easiest start is simply reaching out (outbound), then keep building with them — never build without talking to users (same).

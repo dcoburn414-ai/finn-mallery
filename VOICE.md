@@ -104,3 +104,8 @@ Young SF AI founder who sounds like a GTM operator first and a hype poster secon
 68. "I spend one day a week on it. So, Sundays" / "I'll prepare like 30 or 40 posts for the week on X LinkedIn" — same
 69. "Literally everything is downstream of it." / "you basically just need to be good at YouTube and you can do the others." — same (YouTube as hub content)
 70. "it's always better to start with customer conversations before you start building." — first-party YouTube "I asked Y Combinator partners for billion-dollar startup ideas" — https://www.youtube.com/watch?v=I5tRS88x8Go (2026-10-03)
+
+71. "everything they look for that makes a successful company is surprisingly achievable by anybody anywhere." — first-party YouTube "I found Y Combinator's Secret Checklist to Pick Billion-Dollar Companies" — https://www.youtube.com/watch?v=ByyIBHztebs (2026-10-05)
+72. "So, the question you need to be asking is, who needs your product bad enough to tolerate that early version? go out and find those 10, 20, 50 people in the world who need it that badly." — same
+73. "The easiest way usually to get those initial conversations started is just to simply reach out." — same
+74. "Do not build something that you think needs to be built without talking to your users. It all comes back to that." — same (closing)
