@@ -109,3 +109,11 @@ Young SF AI founder who sounds like a GTM operator first and a hype poster secon
 72. "So, the question you need to be asking is, who needs your product bad enough to tolerate that early version? go out and find those 10, 20, 50 people in the world who need it that badly." — same
 73. "The easiest way usually to get those initial conversations started is just to simply reach out." — same
 74. "Do not build something that you think needs to be built without talking to your users. It all comes back to that." — same (closing)
+
+75. "Personally, I stopped reading competitor posts, blogs, and Twitter." — first-party YouTube "Everything I learned from Y Combinator's secret guide to growth (Bookface)" — https://www.youtube.com/watch?v=xcHt_PcSSYE (2026-09-29)
+76. "The person with the most influence over what you should do should always be your customer, not random sources of information on social media." — same
+77. "Personally, our first 100 customers were all onboarded by me before we let them loose on the product." — same
+78. "You should always be embarrassed by your product. If you're not, you waited way too long to ship and launch it." — same
+79. "We were two people for a very long time." — same
+80. "So before you hire, it should be absolutely so painful that you are losing sleep until you get this hire." — same
+81. "As a founder of a company, your number one goal above all else is making sure the company doesn't run out of money" — same (closing)

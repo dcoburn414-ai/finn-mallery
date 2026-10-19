@@ -100,3 +100,10 @@ Durable public positions and frameworks. Paraphrase grounded in cited quotes in 
 ### From public writing (2026-10-18 incremental)
 - YC's billion-dollar rubric is achievable anywhere — no need to raise, find co-founders, or move to SF first. His five-question read: small but fast-growing market, tackle the unsexy part, sell to the desperate first, a tight user-feedback loop, then retention (first-party YouTube 2026-10-05).
 - Early GTM: find the 10–50 people who need the product badly enough to tolerate the early version; the easiest start is simply reaching out (outbound), then keep building with them — never build without talking to users (same).
+
+### From public writing (2026-10-19 incremental)
+- Retention over growth: growth is just a tool for getting information to improve retention; prove your cohort curves flatten — 1 in 100 users who never leaves beats 80% who all eventually leave (own YouTube "YC's secret guide to growth (Bookface)" 2026-09-29; relays YC partner Dave Lieb).
+- Customers write the roadmap, not a founder planning session; fire customers (even big payers) who pull you toward a one-customer agency offering — test: will they still be a user in 5 years if you succeed? 10 who love it beat 1,000 who kind of like it (same; Paul Graham relayed).
+- Being informed can make you a worse founder: he stopped reading competitor posts, blogs, and Twitter; the customer should have the most influence (same).
+- Don't automate early — he onboarded Origami's first 100 customers himself; automate after explaining/solving the same thing ~20 times. Ship the version you're embarrassed by; weekly shipping compounds more than big launches (same).
+- Hire as few people as you need (they were two people for a very long time); only hire when it's so painful you're losing sleep. Track default alive vs default dead; the founder's #1 goal is not running out of money (same).
