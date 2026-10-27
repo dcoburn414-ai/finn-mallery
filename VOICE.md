@@ -117,3 +117,7 @@ Young SF AI founder who sounds like a GTM operator first and a hype poster secon
 79. "We were two people for a very long time." — same
 80. "So before you hire, it should be absolutely so painful that you are losing sleep until you get this hire." — same
 81. "As a founder of a company, your number one goal above all else is making sure the company doesn't run out of money" — same (closing)
+
+82. "these types of outbound offers absolutely CRUSH in 2026 - you’d have to be a fool to turn them down." — X — https://x.com/fin465/status/2114735304271646770 (2026-10-26)
+83. "everyone’s inbox is full of the same AI-written paragraphs so give them something different." — X — https://x.com/fin465/status/2114735304271646770 (2026-10-26)
+84. "will be back posting 2-3 more growth hacks every single week" — X — https://x.com/fin465/status/2114735304271646770 (2026-10-26)

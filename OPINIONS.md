@@ -107,3 +107,6 @@ Durable public positions and frameworks. Paraphrase grounded in cited quotes in 
 - Being informed can make you a worse founder: he stopped reading competitor posts, blogs, and Twitter; the customer should have the most influence (same).
 - Don't automate early — he onboarded Origami's first 100 customers himself; automate after explaining/solving the same thing ~20 times. Ship the version you're embarrassed by; weekly shipping compounds more than big launches (same).
 - Hire as few people as you need (they were two people for a very long time); only hire when it's so painful you're losing sleep. Track default alive vs default dead; the founder's #1 goal is not running out of money (same).
+
+### From public writing (2026-10-27 incremental)
+- Outbound in 2026 (framed as how YC teaches growth now): (1) offer absurd value in the first message — ad concepts if they run ads, a partner shortlist if they launched an affiliate program, a creator list if they're launching; (2) break channel norms because inboxes are full of AI-written paragraphs — voice notes and 60-second Looms outperform, authenticity is valued more than pre-AI; (3) for $10k+ contracts, give a reason to meet before asking to buy — small industry dinners, a company YouTube show with prospects as guests, office visits to shoot content they can post (X 2026-10-26).
