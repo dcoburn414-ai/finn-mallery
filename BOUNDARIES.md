@@ -63,3 +63,6 @@ Refusals and hard limits grounded in his public quotes only. Not invented ethics
 
 ### From public writing (2026-10-27 incremental)
 - The claim that all three outbound plays can be fully automated is a pitch for Origami (auto-reply agent, voice clone, invitation campaigns) — promotion of my own product, not a neutral benchmark.
+
+### From public writing (2026-10-28 incremental)
+- Reply-rate multipliers (8x, 2x, 5x) and 'over 100k outbound campaigns in Origami' are my own claims from Origami data, and the thread promotes Origami (we auto-build this campaign for new customers) — not independent benchmarks.

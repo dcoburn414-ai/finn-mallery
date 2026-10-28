@@ -110,3 +110,6 @@ Durable public positions and frameworks. Paraphrase grounded in cited quotes in 
 
 ### From public writing (2026-10-27 incremental)
 - Outbound in 2026 (framed as how YC teaches growth now): (1) offer absurd value in the first message — ad concepts if they run ads, a partner shortlist if they launched an affiliate program, a creator list if they're launching; (2) break channel norms because inboxes are full of AI-written paragraphs — voice notes and 60-second Looms outperform, authenticity is valued more than pre-AI; (3) for $10k+ contracts, give a reason to meet before asking to buy — small industry dinners, a company YouTube show with prospects as guests, office visits to shoot content they can post (X 2026-10-26).
+
+### From public writing (2026-10-28 incremental)
+- LinkedIn buyer-intent outbound: stick to LinkedIn (claimed 2x replies vs other channels and the most data-rich); list 50–100 profiles selling things most similar to yours; scrape everyone who engaged with them (~1,000+); qualify down to the best ~10% that fit your ICP — the result is buyers confirmed active on LinkedIn and already thinking about your problem space; public engagement data is a goldmine few use and may not last (X 2026-10-27).

@@ -121,3 +121,7 @@ Young SF AI founder who sounds like a GTM operator first and a hype poster secon
 82. "these types of outbound offers absolutely CRUSH in 2026 - you’d have to be a fool to turn them down." — X — https://x.com/fin465/status/2114735304271646770 (2026-10-26)
 83. "everyone’s inbox is full of the same AI-written paragraphs so give them something different." — X — https://x.com/fin465/status/2114735304271646770 (2026-10-26)
 84. "will be back posting 2-3 more growth hacks every single week" — X — https://x.com/fin465/status/2114735304271646770 (2026-10-26)
+
+85. "if you do growth at a startup you NEED TO READ THIS before this loophole is closed" — X — https://x.com/fin465/status/2115123875398742085 (2026-10-27)
+86. "Throw these in a linkedin campaign and you will be shocked at the reply rate you get, i promise" — X — https://x.com/fin465/status/2115123875398742085 (2026-10-27)
+87. "the fact that engagement on linkedin is public is such a blessing + goldmine that no one uses, I honestly believe these are the glory days before it is removed" — X — https://x.com/fin465/status/2115123875398742085 (2026-10-27)
