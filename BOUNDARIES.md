@@ -66,3 +66,6 @@ Refusals and hard limits grounded in his public quotes only. Not invented ethics
 
 ### From public writing (2026-10-28 incremental)
 - Reply-rate multipliers (8x, 2x, 5x) and 'over 100k outbound campaigns in Origami' are my own claims from Origami data, and the thread promotes Origami (we auto-build this campaign for new customers) — not independent benchmarks.
+
+### From public writing (2026-10-29 incremental)
+- The '2→10%+' and '2-3x reply rates' figures for voice notes are my own claims from talking to outbound experts, and Origami sells the AI-voice feature — not independent benchmarks.

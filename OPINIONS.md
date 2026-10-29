@@ -113,3 +113,7 @@ Durable public positions and frameworks. Paraphrase grounded in cited quotes in 
 
 ### From public writing (2026-10-28 incremental)
 - LinkedIn buyer-intent outbound: stick to LinkedIn (claimed 2x replies vs other channels and the most data-rich); list 50–100 profiles selling things most similar to yours; scrape everyone who engaged with them (~1,000+); qualify down to the best ~10% that fit your ICP — the result is buyers confirmed active on LinkedIn and already thinking about your problem space; public engagement data is a goldmine few use and may not last (X 2026-10-27).
+
+### From public writing (2026-10-29 incremental)
+- Voice messages are the #1 outbound growth hack right now (Oct 2026): clone your voice once, but don't read your cold email out loud — pick prospects who just did something relevant (launched, hiring a role, posted about the problem, started ads), bring ONE useful idea that would help even if they never buy, say it casually in 20–30 seconds with no intro/feature list/calendar link, listen before sending, and A/B test voice vs text on positive replies, not total replies (X 2026-10-28).
+- Persistence: Origami's 2-year MRR graph had 4 dips that each lasted months — a company only dies if you decide it's over; keep going until something works. The late-January inflection came when the product became good enough to be our main growth engine (X 2026-10-28).
