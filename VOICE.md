@@ -130,3 +130,6 @@ Young SF AI founder who sounds like a GTM operator first and a hype poster secon
 89. "specific observation → useful idea → stop talking." — X — https://x.com/fin465/status/2115468591621447781 (2026-10-28)
 90. "the test: would this still be useful if they never bought from you?" — X — https://x.com/fin465/status/2115468591621447781 (2026-10-28)
 91. "aim for 20–30 seconds. no company introduction, feature list, or calendar link." — X — https://x.com/fin465/status/2115468591621447781 (2026-10-28)
+
+92. "We just open-sourced our entire growth playbook." / "You no longer need your first 5 Growth hires." — X — https://x.com/fin465/status/2116253285669625967 (2026-10-30)
+93. "Six editable playbooks. One Claude skill. No email gate." — X — https://x.com/fin465/status/2116253421087170901 (2026-10-30)

@@ -69,3 +69,6 @@ Refusals and hard limits grounded in his public quotes only. Not invented ethics
 
 ### From public writing (2026-10-29 incremental)
 - The '2→10%+' and '2-3x reply rates' figures for voice notes are my own claims from talking to outbound experts, and Origami sells the AI-voice feature — not independent benchmarks.
+
+### From public writing (2026-10-31 incremental)
+- 'You no longer need your first 5 Growth hires' and 'huge viral success' are my promotional claims for my own company's product.

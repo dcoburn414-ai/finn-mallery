@@ -117,3 +117,6 @@ Durable public positions and frameworks. Paraphrase grounded in cited quotes in 
 ### From public writing (2026-10-29 incremental)
 - Voice messages are the #1 outbound growth hack right now (Oct 2026): clone your voice once, but don't read your cold email out loud — pick prospects who just did something relevant (launched, hiring a role, posted about the problem, started ads), bring ONE useful idea that would help even if they never buy, say it casually in 20–30 seconds with no intro/feature list/calendar link, listen before sending, and A/B test voice vs text on positive replies, not total replies (X 2026-10-28).
 - Persistence: Origami's 2-year MRR graph had 4 dips that each lasted months — a company only dies if you decide it's over; keep going until something works. The late-January inflection came when the product became good enough to be our main growth engine (X 2026-10-28).
+
+### From public writing (2026-10-31 incremental)
+- Origami open-sourced its whole growth system as 'Growth AGI by Origami' — six editable playbooks plus one Claude skill, no email gate: add it to Claude, give it your website and a goal. Pitch: you no longer need your first 5 growth hires (X 2026-10-30).
