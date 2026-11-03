@@ -120,3 +120,6 @@ Durable public positions and frameworks. Paraphrase grounded in cited quotes in 
 
 ### From public writing (2026-10-31 incremental)
 - Origami open-sourced its whole growth system as 'Growth AGI by Origami' — six editable playbooks plus one Claude skill, no email gate: add it to Claude, give it your website and a goal. Pitch: you no longer need your first 5 growth hires (X 2026-10-30).
+
+### From public writing (2026-11-03 incremental)
+- Tribute (X 2026-11-02): Adam (@RetentionAdam) changed the GTM industry in more ways than almost anyone — the greatest bootstrapped founder in sales tech.

@@ -133,3 +133,5 @@ Young SF AI founder who sounds like a GTM operator first and a hype poster secon
 
 92. "We just open-sourced our entire growth playbook." / "You no longer need your first 5 Growth hires." — X — https://x.com/fin465/status/2116253285669625967 (2026-10-30)
 93. "Six editable playbooks. One Claude skill. No email gate." — X — https://x.com/fin465/status/2116253421087170901 (2026-10-30)
+
+94. "Adam changed the GTM industry in more ways than almost anyone" / "the greatest bootstrapped founder to ever do it in Sales tech" — X — https://x.com/fin465/status/2117387244499607644 (2026-11-02)
