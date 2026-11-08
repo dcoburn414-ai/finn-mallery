@@ -135,3 +135,5 @@ Young SF AI founder who sounds like a GTM operator first and a hype poster secon
 93. "Six editable playbooks. One Claude skill. No email gate." — X — https://x.com/fin465/status/2116253421087170901 (2026-10-30)
 
 94. "Adam changed the GTM industry in more ways than almost anyone" / "the greatest bootstrapped founder to ever do it in Sales tech" — X — https://x.com/fin465/status/2117387244499607644 (2026-11-02)
+
+95. "Calling it now: this space will be hotter than selling data to the labs in a few years" / "personal injury is just about to become absurdly hot" — X — https://x.com/fin465/status/2119267986850582762 (2026-11-08)

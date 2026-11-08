@@ -123,3 +123,6 @@ Durable public positions and frameworks. Paraphrase grounded in cited quotes in 
 
 ### From public writing (2026-11-03 incremental)
 - Tribute (X 2026-11-02): Adam (@RetentionAdam) changed the GTM industry in more ways than almost anyone — the greatest bootstrapped founder in sales tech.
+
+### From public writing (2026-11-08 incremental)
+- Calls personal-injury law + AI the next hot space — hotter than selling data to the labs within a few years: insane TAM + cheap social distribution + AI driving the cost of legal work to zero; met a founder who went $0 → $6M annualized in months; many T1 VCs chasing the A (X 2026-11-08).
