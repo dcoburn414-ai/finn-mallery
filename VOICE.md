@@ -137,3 +137,6 @@ Young SF AI founder who sounds like a GTM operator first and a hype poster secon
 94. "Adam changed the GTM industry in more ways than almost anyone" / "the greatest bootstrapped founder to ever do it in Sales tech" — X — https://x.com/fin465/status/2117387244499607644 (2026-11-02)
 
 95. "Calling it now: this space will be hotter than selling data to the labs in a few years" / "personal injury is just about to become absurdly hot" — X — https://x.com/fin465/status/2119267986850582762 (2026-11-08)
+
+### From public writing (2026-11-24 incremental)
+96. "kinda insane when you think about it that going forward, probably all monumental discoveries in math/physics/ etc. will be made by internal AI lab researchers with gated access to the very newest & most powerful models" — X — https://x.com/fin465/status/2125042885179691065 (2026-11-24)
